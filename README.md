@@ -10,6 +10,6 @@ otra carpeta para el capitulo del libro
  
 otra carpeta para el capitulo del libro
 
-<a href=“https://github.com/rosaritoruoti/TYHM/blob/main/traduccion%20cap6%20pdf.pdf”>
+<a href=“https://github.com/rosaritoruoti/TYHM/blob/8e69a400e1aad16bcb69fee5d6422e6e0195c523/traduccion%20cap6%20pdf.pdf”>
 <img src="https://user-images.githubusercontent.com/86130127/122616321-89119200-d060-11eb-9081-6a862b69005f.png">
 <a/>
