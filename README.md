@@ -3,13 +3,13 @@ Trabajo de tecnicas y herramientas modernas
 Modulo 1, creacion de textos e hipertextos
 creare una carpeta para el cv
 otra carpeta para el capitulo del libro
-<a href=“https://github.com/rosaritoruoti/TYHM/blob/main/cv.pdf”>
-<img src="https://user-images.githubusercontent.com/86130127/122616512-e1e12a80-d060-11eb-8986-c0c9f546badc.png">
 
-<a/>
- 
-otra carpeta para el capitulo del libro
 
-<a href=“https://github.com/rosaritoruoti/TYHM/blob/8e69a400e1aad16bcb69fee5d6422e6e0195c523/traduccion%20cap6%20pdf.pdf”>
-<img src="https://user-images.githubusercontent.com/86130127/122616321-89119200-d060-11eb-9081-6a862b69005f.png">
-<a/>
+
+## Curriculum Vitae realizado con Overleaf
+
+[cv](https://github.com/rosaritoruoti/TYHM/blob/10881f5af7674d9a0d93c26a89cb2717f98f80d3/cv.pdf)
+
+## Capitulo del libro
+
+[capitulo6](https://github.com/renatacarrion/renatacarrion/blob/ed5b110dff14d054cec0e5dba7c068f74bed2583/capitulo6.pdf)
