@@ -3,7 +3,7 @@ Trabajo de tecnicas y herramientas modernas
 Modulo 1, creacion de textos e hipertextos
 creare una carpeta para el cv
 otra carpeta para el capitulo del libro
-<a href=“https://github.com/rosaritoruoti/TYHM/blob/main/prueba.pdf%20CV.pdf”>
+<a href=“https://github.com/rosaritoruoti/TYHM/blob/main/cv.pdf”>
 <img src="https://user-images.githubusercontent.com/86130127/122616512-e1e12a80-d060-11eb-8986-c0c9f546badc.png">
 
 <a/>
